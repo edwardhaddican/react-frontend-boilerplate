@@ -1,5 +1,5 @@
 {
-  "name": "year_one_project",
+  "name": "front end boilerplate",
   "version": "1.0.0",
   "description": "An small web application for viewing movie details and voting for your favorites.",
   "main": "index.js",
